@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT" verbose="0">
+  <listeners>
+    <listener class-name="resources.TestListener"/>
+  </listeners>
+  <test thread-count="5" name="Test(failed)" verbose="0">
+    <classes>
+      <class name="TestSuite.FutureGenerali_SavingPlan_HomePageTest">
+        <methods>
+          <include name="Changeproduct"/>
+          <include name="plan2" invocation-numbers="0"/>
+          <include name="openurl"/>
+          <include name="clicklink"/>
+          <include name="initializeTestBaseSetup"/>
+        </methods>
+      </class> <!-- TestSuite.FutureGenerali_SavingPlan_HomePageTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

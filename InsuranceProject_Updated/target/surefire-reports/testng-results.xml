@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="4" passed="1" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-22T05:48:48Z" name="Suite" finished-at="2021-02-22T05:49:54Z" duration-ms="65642">
+    <groups>
+    </groups>
+    <test started-at="2021-02-22T05:48:48Z" name="Test" finished-at="2021-02-22T05:49:54Z" duration-ms="65642">
+      <class name="TestSuite.FutureGenerali_SavingPlan_HomePageTest">
+        <test-method is-config="true" signature="initializeTestBaseSetup()[pri:0, instance:TestSuite.FutureGenerali_SavingPlan_HomePageTest@51e69659]" started-at="2021-02-22T05:48:48Z" name="initializeTestBaseSetup" finished-at="2021-02-22T05:49:10Z" duration-ms="21664" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initializeTestBaseSetup -->
+        <test-method is-config="true" signature="openurl()[pri:0, instance:TestSuite.FutureGenerali_SavingPlan_HomePageTest@51e69659]" started-at="2021-02-22T05:49:10Z" name="openurl" finished-at="2021-02-22T05:49:10Z" duration-ms="294" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openurl -->
+        <test-method is-config="true" signature="clicklink()[pri:0, instance:TestSuite.FutureGenerali_SavingPlan_HomePageTest@51e69659]" started-at="2021-02-22T05:49:10Z" name="clicklink" finished-at="2021-02-22T05:49:11Z" duration-ms="954" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clicklink -->
+        <test-method signature="plan(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:1, instance:TestSuite.FutureGenerali_SavingPlan_HomePageTest@51e69659]" started-at="2021-02-22T05:49:11Z" name="plan" data-provider="FutureGeneraliSuperMoneyBackPlan_data_provider" finished-at="2021-02-22T05:49:28Z" duration-ms="17127" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Vaishali]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Warade]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[21/07/1991]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Passport]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[20]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Quarterly]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Online]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Staff]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Silver]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[15000]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- plan -->
+        <test-method is-config="true" signature="Changeproduct()[pri:0, instance:TestSuite.FutureGenerali_SavingPlan_HomePageTest@51e69659]" started-at="2021-02-22T05:49:28Z" name="Changeproduct" finished-at="2021-02-22T05:49:28Z" duration-ms="145" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Changeproduct -->
+        <test-method is-config="true" signature="clicklink()[pri:0, instance:TestSuite.FutureGenerali_SavingPlan_HomePageTest@51e69659]" started-at="2021-02-22T05:49:28Z" name="clicklink" finished-at="2021-02-22T05:49:29Z" duration-ms="853" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clicklink -->
+        <test-method signature="plan2(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:2, instance:TestSuite.FutureGenerali_SavingPlan_HomePageTest@51e69659]" started-at="2021-02-22T05:49:29Z" name="plan2" data-provider="FutureGeneraliLifeTimePartner_data_provider" finished-at="2021-02-22T05:49:54Z" duration-ms="24292" status="FAIL">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ajay]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Warade]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[21/07/1980]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Aadhar with DOB]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Upto Age 100]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[Quarterly]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[Monthly]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[Offline]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[None]]>
+              </value>
+            </param>
+            <param index="10">
+              <value>
+                <![CDATA[Deferred Income]]>
+              </value>
+            </param>
+            <param index="11">
+              <value>
+                <![CDATA[2500000]]>
+              </value>
+            </param>
+          </params>
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [20,000] but found [83,316]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [20,000] but found [83,316]
+at org.testng.Assert.fail(Assert.java:96)
+at org.testng.Assert.failNotEquals(Assert.java:776)
+at org.testng.Assert.assertEqualsImpl(Assert.java:137)
+at org.testng.Assert.assertEquals(Assert.java:118)
+at org.testng.Assert.assertEquals(Assert.java:453)
+at org.testng.Assert.assertEquals(Assert.java:463)
+at TestSuite.FutureGenerali_SP_LifeTimePartnerPlanTestCases.VerifyFutureGeneraliLifeTimePartnerPlan21036(FutureGenerali_SP_LifeTimePartnerPlanTestCases.java:131)
+at TestSuite.FutureGenerali_SavingPlan_HomePageTest.plan2(FutureGenerali_SavingPlan_HomePageTest.java:142)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:564)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
+at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
+at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
+at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+at org.testng.TestRunner.privateRun(TestRunner.java:648)
+at org.testng.TestRunner.run(TestRunner.java:505)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
+at org.testng.SuiteRunner.run(SuiteRunner.java:364)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
+at org.testng.TestNG.runSuites(TestNG.java:1049)
+at org.testng.TestNG.run(TestNG.java:1017)
+at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:384)
+at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:345)
+at org.apache.maven.surefire.booter.ForkedBooter.execute(ForkedBooter.java:126)
+at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:418)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- plan2 -->
+        <test-method is-config="true" signature="Changeproduct()[pri:0, instance:TestSuite.FutureGenerali_SavingPlan_HomePageTest@51e69659]" started-at="2021-02-22T05:49:54Z" name="Changeproduct" finished-at="2021-02-22T05:49:54Z" duration-ms="246" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Changeproduct -->
+      </class> <!-- TestSuite.FutureGenerali_SavingPlan_HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
